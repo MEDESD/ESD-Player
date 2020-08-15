@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_toggle_player"
+        android:title="toggle player"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_toggle_render"
+        android:title="toggle render"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_toggle_ratio"
+        android:title="toggle ratio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_info"
+        android:title="show info"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_tracks"
+        android:title="tracks"
+        app:showAsAction="never" />
+</menu>
